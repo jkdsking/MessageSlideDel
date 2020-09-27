@@ -1,5 +1,7 @@
 # 消息左滑删除
-![image](https://github.com/jkdsking/MessageSlideDel/blob/master/main.jpg)![https://github.com/jkdsking/MessageSlideDel/blob/master/del.jpg)
+
+![image](https://github.com/jkdsking/MessageSlideDel/blob/master/main.jpg)
+![image](https://github.com/jkdsking/MessageSlideDel/blob/master/del.jpg)
  
  
  ##  gradle接入
@@ -17,8 +19,8 @@
 
 ## item消息布局
 
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+    <?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
