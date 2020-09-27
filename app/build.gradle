@@ -32,5 +32,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4'
-    implementation project(':MessageLeft')
+//    implementation project(':MessageLeft')
+
+    implementation 'com.github.jkdsking:MessageSlideDel:1.0.1'
 }
